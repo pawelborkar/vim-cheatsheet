@@ -335,11 +335,6 @@ CTRL-w + <-|->      -  (left or right) to navigate
 :w !sudo sh -c "cat > %"  -             "                            "
 
 ```
-More details:
-https://www.cs.oberlin.edu/~kuperman/help/vim/markers.html
-
-Good Tutorial:
-http://danielmiessler.com/study/vim/# VIM KEYBOARD SHORTCUTS
 
 ### MOVEMENT
 ```
@@ -676,8 +671,6 @@ CTRL-w + <-|->      -  (left or right) to navigate
 :w !sudo sh -c "cat > %"  -             "                            "
 
 ```
-More details:
-https://www.cs.oberlin.edu/~kuperman/help/vim/markers.html
 
-Good Tutorial:
-http://danielmiessler.com/study/vim/
+## License
+[CC-BY-4.0 License](https://github.com/pawelbr/vim-cheatsheet/blob/master/LICENSE)
